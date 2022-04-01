@@ -1,5 +1,6 @@
-## Welcome to my homepage
+# Welcome to my homepage
 
+### About Me
 I am currenlty a PhD student at the University of Bath and part of the [CAMERA](https://www.camera.ac.uk/) research group. My reserch  involves computer vision for animal body analysis with a focus upon canines. My research interests include: 
 
 1. Pose Estimation 
