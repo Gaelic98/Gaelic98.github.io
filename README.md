@@ -29,6 +29,6 @@ While the inital results of this work were encouraging, by the time these result
 DynaDog+T while capable of generating data was, at the time, only capable of generating synthetic data. This provided some limitations in part due to the domain gap ([see here for more details](https://machinelearning.apple.com/research/bridging-the-domain-gap-for-neural-models)). To correct this we introcuded a propcedure for fitting our parametric model to images of real dogs using a subset of labelled keypoints. See [RGBT-Dog](/RGBT.md) for further details. 
 
 
-### RGBT-Dog - refined
+### Generating better synthetic data
 
 The synthetic data produced in previous projects can be improved upon. As can be seen in the relevant project pages, the meshes in our synthetic images lacked smooth surfaces. In addition these meshes were often in unreealsitic positions in the images with inconsistent lighting when compared to the background. 
