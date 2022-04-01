@@ -14,4 +14,4 @@ My initial work at the University of Bath concerned the area of human pose estia
 
 One of my first projects as part of this research considered a simplistic canine skelton model made up of 43 joints which we called X-Dog (eXpressive Dog). Inspired by the work of [Kanazawa et.al.](https://akanazawa.github.io/hmr/) we used this model to generate syntehtic data using a set of 2D keypoints ofr images we had labelled ourselves. Please see [Canine Skeleton Reconstruction](/CSR.md) for more details. 
 
-While the inital results of this work were encouraging, by the time these results were generated we had imrpoved this skeleton model toa  fully fledged articulated parametric model. This initial iteration was called DynaDog+T (Dynamic Dog plus texture). 
+While the inital results of this work were encouraging, by the time these results were generated we had imrpoved this skeleton model toa  fully fledged articulated parametric model. This initial iteration was called DynaDog+T (Dynamic Dog plus texture). [DynaDog](/DynaDog.md)
